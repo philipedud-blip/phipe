@@ -25,11 +25,14 @@ a{
     width: 250px;
     height: 250;
     font-size: xx-large;
+    text-decoration: none;
+    color: antiquewhite;
 }
 .button{
     display: flex;
     margin-left: 4%;
     justify-content: center;
+    text-align: center;
     gap: 12px;
     flex-wrap: wrap;
     font-family: 'Courier New', Courier, monospace;
